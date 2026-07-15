@@ -109,5 +109,5 @@ securitisation-loan-risk-analysis
 
 **Ayush Sajgotra**
 
-- LinkedIn: *(Add your LinkedIn profile URL)*
+- LinkedIn: https://linkedin.com/in/ayush1900 
 - GitHub: https://github.com/Ayush1-jpg
