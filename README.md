@@ -111,3 +111,38 @@ securitisation-loan-risk-analysis
 
 - LinkedIn: https://linkedin.com/in/ayush1900 
 - GitHub: https://github.com/Ayush1-jpg
+
+
+---
+
+# 📸 Dashboard Preview
+
+## Executive Dashboard
+
+![Executive Dashboard](dashboard-screenshots/executive.png)
+
+---
+
+## Portfolio Performance Dashboard
+
+![Portfolio Performance](dashboard-screenshots/portfolio-performance.png)
+
+---
+
+## Loan Performance Dashboard
+
+![Loan Performance](dashboard-screenshots/loan-performance.png)
+
+---
+
+## Credit Risk Dashboard
+
+![Credit Risk Dashboard](dashboard-screenshots/credit-risk.png)
+
+---
+
+## Vintage Analysis Dashboard
+
+![Vintage Analysis](dashboard-screenshots/vintage-analysis.png)
+
+---
