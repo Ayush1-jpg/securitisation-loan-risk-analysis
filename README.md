@@ -7,6 +7,41 @@ This project analyzes a securitised loan portfolio using Microsoft Power BI. It 
 The project demonstrates end-to-end Business Intelligence development, including data transformation, data modelling, DAX calculations, and dashboard design.
 
 ---
+# 📸 Dashboard Preview
+
+## Executive Dashboard
+
+![Executive Dashboard](dashboard-screenshots/executive.png)
+
+---
+
+## Portfolio Performance Dashboard
+
+![Portfolio Performance](dashboard-screenshots/portfolio-performance.png)
+
+---
+
+## Loan Performance Dashboard
+
+![Loan Performance](dashboard-screenshots/loan-performance.png)
+
+---
+
+## Credit Risk Dashboard
+
+![Credit Risk Dashboard](dashboard-screenshots/credit-risk.png)
+
+---
+
+## Vintage Analysis Dashboard
+
+![Vintage Analysis](dashboard-screenshots/vintage-analysis.png)
+
+---
+
+
+
+
 
 ## Business Objectives
 
@@ -115,34 +150,3 @@ securitisation-loan-risk-analysis
 
 ---
 
-# 📸 Dashboard Preview
-
-## Executive Dashboard
-
-![Executive Dashboard](dashboard-screenshots/executive.png)
-
----
-
-## Portfolio Performance Dashboard
-
-![Portfolio Performance](dashboard-screenshots/portfolio-performance.png)
-
----
-
-## Loan Performance Dashboard
-
-![Loan Performance](dashboard-screenshots/loan-performance.png)
-
----
-
-## Credit Risk Dashboard
-
-![Credit Risk Dashboard](dashboard-screenshots/credit-risk.png)
-
----
-
-## Vintage Analysis Dashboard
-
-![Vintage Analysis](dashboard-screenshots/vintage-analysis.png)
-
----
